@@ -1,7 +1,7 @@
 ## Olá me chamo jonathas!! Seja bem-vindo
 
 - atualmente cursando ciência da computação...👨‍💻
-- Especialisando em Python,C+ e JS...🐍
+- Python,C+ e JS...🐍
 - Email para contato:
 ##
 <div style="display: inline_block"><br>
