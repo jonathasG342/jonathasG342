@@ -1,8 +1,10 @@
-## Olá me chamo jonathas!! Seja bem-vindo
+🚀 Iniciando minha jornada na área de programação! 🚀
 
-- atualmente cursando ciência da computação...👨‍💻
-- Python,C+ e JS...🐍
-- Email para contato:
+Olá! Meu nome é Jonathas, e estou embarcando em uma emocionante jornada no mundo da tecnologia. Atualmente, estou cursando Bacharelado em Ciência da Computação e dedicando-me intensamente ao aprendizado de programação, desenvolvimento de software e resolução de problemas.
+
+🌟 Meu objetivo?
+Contribuir para a criação de tecnologias que impactem positivamente a sociedade e evoluir constantemente como profissional. Estou aberto a oportunidades de estágio, colaborações e networking com outros entusiastas da tecnologia.
+Vamos conectar e trocar ideias! Estou sempre disposto a aprender e compartilhar experiências. 😊
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
